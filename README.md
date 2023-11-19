@@ -7,7 +7,9 @@
 পরিশেষে যে কোনো ধরণের উপদেশ বা বইয়ে কোন ভুল ত্রুটি জানালে কৃতজ্ঞ থাকবো।
 
 আরিফুজ্জামান ফয়সাল
+
 তড়িৎ ও কম্পিউটার প্রকৌশলে পিএইচডিতে অধ্যয়নরত। 
+
 ডিসেম্বর, ২০২৩
 
 For the latest version of this book, please visit the following link. The content is continuously updated based on reader comments and suggestions:
